@@ -1,0 +1,1 @@
+enum FilosofiaButtonStyle { primary, secondary }
